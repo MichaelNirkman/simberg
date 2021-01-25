@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+tmp/*
+results/*
+venv
+dump_old
